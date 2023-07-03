@@ -1,4 +1,3 @@
 # cordel-moderno
-Site que aprendi no curso em video.
-Colocando em prática tudo que aprendi até aqui.
-Tecnica de efeito paralax.
+Site que aprendi no curso em video, colocando em pratíca tudo que aprendi até aqui. Utilizando efeito paralax
+
